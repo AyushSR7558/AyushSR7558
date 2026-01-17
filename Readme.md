@@ -1,213 +1,132 @@
-<!--
-<div align ="center">
-<img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png"/>
-
--->
-
- <img src="https://raw.githubusercontent.com/thompsonemerson/thompsonemerson/master/cover-thompson.png"/> 
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150px" />
 </div>
-<br/>
-
-<div align="left">
-  
-```js
-
-import SoftwareDeveloper from 'Yogaprasadmk';
-
-class Bio extends SoftwareDeveloper {
-  pronouns: "He" | "Him",
-  name     = 'Yogaprasad M K';
-  title    = 'Software Engineer';
-  company  =  SyncFusion;
-  location = Chennai;
-}
-
-class Skills extends SoftwareDeveloper {
-  languages  = ['Java','JS'];
-  askMeAbout: ["Full stack web dev"],
-  web technologies: {
-        frontEnd: {
-            markup : ["HTML 5"]
-            js: ["react"],
-            css: ['Tailwind'];
-        },
-        databases: ["Oracle SQL"],
-    },
-    funFact: "There are two ways to write error-free programs; only the third one works"
-}
-
-```
-</div>
-<br/>
 
 <div align="center">
-<div align="center">
-<a href="https://linkedin.com/in/yogaprasadmk"><img width=130 src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yogaprasadmk)"/></a>
-<!-- <img width=200 src="https://visitcount.itsvg.in/api?id=yogaprasadk&icon=4&color=8)](https://visitcount.itsvg.in)"/> -->
-  </div>
-</div>
-<br/>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00B894&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ayush+Raut+👋;A+Passionate+MERN+Developer+Problem+Solver;Building+the+Web%2C+One+Pixel+at+a+Time." alt="Typing SVG" />
 
-<div align="center">
-  <h3 align="center">Remaining Days</h3>
- 
-  <a href="https://dday-widget.minung.dev">
-    <img src="https://dday-widget.minung.dev/widget?text=New%20Year%20%F0%9F%99%82&date=2026-01-01&startDate=2025-02-15&theme=theme2" alt="dday-widget.svg" />
   </a>
 </div>
-<br/>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
- <!-- ## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" />
-</div>
-</div> -->
+---
 
-<div align="center">
-  <h3 align="center">⚡Stats⚡</h3>
-  <br />
-  <!-- <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogaprasadk&layout=compact"
-    width="380"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=yogaprasadk&show_icons=true&theme=radical"
-    width="400"
-  />
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=yogaprasadk" alt="GitHub Streak"  width="400" /></a>
-  <img
-    width="400"
-    src="https://leetcard.jacoblin.cool/yogaprasad_mk?theme=wtf"
-    height="200"
-  /> -->
+<table>
+  <tr>
+    <td width="65%" valign="top">
 
- | <img  src="https://github-readme-stats.vercel.app/api?username=yogaprasadk&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="yogaprasadk" width="400px"/> <img  src="https://github-readme-streak-stats.herokuapp.com/?user=yogaprasadk&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="yogaprasadk" width="400px"/> |
-| -- |
-    
-| <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogaprasadk&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="UmangDalvadi" width="292px"/> <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="150"> |
-| -- |
-</div>
-<br />
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<h3>🚀 About Me</h3>
 
-<div align="center">
-  <div>
-    <h3 align="center">🏆 Github Trophies</h3>
-    <br />
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=yogaprasadk&theme=merko&no-frame=true&no-bg=true&margin-w=4"
-    />
-  </div>
-</div>
-<br />
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<p>
+I'm a <strong>MERN Developer</strong> and <strong>Problem Solver</strong> from <strong>Bhagalpur, India</strong>, passionate about creating beautiful, functional, and user-centric web experiences. I love solving complex problems and learning new technologies to bring ideas to life.
+</p>
 
-<div align="center">
-  <div align="center">
-    <h3 align="center">⚡ Github Activity Graph ⚡</h3>
-    <br />
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=yogaprasadk&bg_color=18010e&color=ffffff&line=f0ebef&point=f4f401&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"
-    />
-  </div>
-</div>
-<br />
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<ul>
+  <li>🌱 I’m currently exploring <strong>Advanced React Patterns</strong> & <strong>Backend Optimization</strong>.</li>
+  <li>💬 Ask me about <strong>MERN Stack, C++, and DSA</strong>.</li>
+  <li>📫 Reach me at: <a href="mailto:ayushraut7558@gmail.com"><strong>saurabhmishra6341@gmail.com</strong></a></li>
+  <li>👨‍💻 My portfolio is under construction 🏗️ — stay tuned!</li>
+</ul>
 
-<div align="center">
-  <div align="center">
-    <h3 align="center">🔝 Top Contributed Repository</h3>
-    <br />
-    <img
-      src="https://github-contributor-stats.vercel.app/api?username=yogaprasadk&limit=5&theme=dark&combine_all_yearly_contributions=true"
-      width="870"
-      height="300"
-    />
-  </div>
-</div>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<div align="center">
-  <div align="center">
-    <h3 align="center">Snake Animation 🐍</h3>
-    <img
-      src="https://raw.githubusercontent.com/yogaprasadk/yogaprasadk/output/snake.svg"
-      alt="Snake animation"
-      width="2000"
-    />
-  </div>
-</div>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<div>
-  <div align="center">
-    <h3 align="center">⚡ Wakatime Dashboard ⚡</h3>
-    <br />
-    <a href="https://wakatime.com"
-      ><img
-        src="https://wakatime.com/share/@018ca6b7-94da-4440-b462-39b06274f277/b826ac4e-11df-4560-a4e1-97225ddc34d8.png"
-    /></a>
-  </div>
-</div>
-<br />
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<h3>🌐 Connect with Me</h3>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ayush-raut-79bb4830b/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.codechef.com/users/saurabm6341" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
+  </a>
+  <a href="https://codeforces.com/profile/saurabhm116" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/alchemist_karthik" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+  <a href="https://discord.gg/saurabhm6341_84759" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+  </a>
+</p>
+
+</td>
+<td width="35%" align="center" valign="top">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding GIF" width="100%" />
+</td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ My Tech Stack
+
+<p align="center">
+  <strong>Languages:</strong><br />
+  <img alt="C" src="https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <br /><br />
+  <strong>Frontend Development:</strong><br />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <br /><br />
+  <strong>Backend & Database:</strong><br />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <br /><br />
+  <strong>Tools & Platforms:</strong><br />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+---
+
+### 📊 My GitHub Stats & Activity
 
 <div align="center">
-    <h2 align="center"> ⚡ Open Source Contribution Badges ⚡</h2>
-  <h3 align="center">⚡ Apertre 2.0 ⚡</h3>
-<img src="https://holopin.me/yogaprasadk" />
-  
-</div>
-<br />
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-<div align="center">
-  <h3 align="center">✍️Random Dev Quote</h3>
-  <br />
-  <img
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes"
-  />
-</div>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-<div align="center">
-  <h3 align="center">😂Random Dev Jokes</h3>
-  <br />
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="600" />
-</div>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-<div align="center">
-  <h3 align="center">Support:</h3>
-  <a href="https://www.buymeacoffee.com/yogaprasadmk" target="_blank"
-    ><img
-      src="https://cdn.buymeacoffee.com/buttons/default-orange.png"
-      alt="Buy Me A Coffee"
-      height="41"
-      width="174"
-  /></a>
-</div>
-<br />
-
-<div align="center">
-  <a href="https://git.io/typing-svg"
-    ><img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Thanks+For+Visiting+%E2%9C%8C;Shoot+a+message+on+Linkedin+%3A);I+am+always+down+to+collab"
-      alt="Typing SVG"
-  /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=saurabhm6341&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhm6341&layout=compact&theme=vision-friendly-dark" alt="Top Languages" width="49%" />
+  <br /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhm6341&theme=dark&hide_border=true" alt="GitHub Streak" width="65%" />
+  <br /><br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saurabhm6341&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
-<br />
+---
+
+### 🏆 GitHub Trophies
 
 <div align="center">
-  :heart: Thanks for Visiting my profile! Have a nice day! :heart: <br />
-  &copy; 2025 Yogaprasad M K
+  <img src="https://github-profile-trophy.vercel.app/?username=saurabhm6341&theme=dracula&column=7&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
+</div>
+
+---
+
+### ✨ Open Source Contributions
+
+<div align="center">
+  <details open>
+    <summary><strong>GirlScript Summer of Code '24 Contributor</strong></summary>
+    <br>
+    <img src="https://gssoc-dynamic-badges.vercel.app/api/saurabhm6341?year=2024Extd" alt="GSSOC '24 Badge"/>
+  </details>
+</div>
+
+---
+
+### 🐍 Watch my contributions slither!
+
+<div align="center">
+  <img src="https://github.com/saurabhm6341/saurabhm6341/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=saurabhm6341&label=Profile%20Visitors&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <br /><br />
+  <p>✨ Crafted with passion by <strong>Saurabh Mishra</strong> ✨</p>
 </div>
