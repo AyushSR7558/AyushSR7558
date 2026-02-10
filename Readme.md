@@ -35,7 +35,7 @@ Full Stack Developer passionate about building scalable systems that handle high
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://www.codechef.com/users/ayush_7558" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
+    <img src="https://img.icons8.com/?size=100&id=eqDiO9L02aEu&format=png&color=000000" alt="CodeChef" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/alchemist_karthik" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
