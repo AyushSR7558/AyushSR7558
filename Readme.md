@@ -18,13 +18,13 @@
 <h3>🚀 About Me</h3>
 
 <p>
-I'm a <strong>MERN Developer</strong> and <strong>Problem Solver</strong> from <strong>Bhagalpur, India</strong>, passionate about creating beautiful, functional, and user-centric web experiences. I love solving complex problems and learning new technologies to bring ideas to life.
+Full Stack Developer passionate about building scalable systems that handle high load. I love designing robust backends and crafting beautiful, intuitive user interfaces that bring products to life.
 </p>
 
 <ul>
-  <li>🌱 I’m currently exploring <strong>Advanced React Patterns</strong> & <strong>Backend Optimization</strong>.</li>
-  <li>💬 Ask me about <strong>MERN Stack, C++, and DSA</strong>.</li>
-  <li>📫 Reach me at: <a href="mailto:ayushraut7558@gmail.com"><strong>saurabhmishra6341@gmail.com</strong></a></li>
+  <li>🌱 I’m currently exploring <strong>How Backend of Large Scale App works</strong> & <strong>Backend Optimization</strong>.</li>
+  <li>💬 Ask me about <strong>MERN Stack, C++, Java and DSA</strong>.</li>
+  <li>📫 Reach me at: <a href="mailto:ayushraut7558@gmail.com"><strong>ayushraut7558@gmail.com</strong></a></li>
   <li>👨‍💻 My portfolio is under construction 🏗️ — stay tuned!</li>
 </ul>
 
@@ -34,16 +34,13 @@ I'm a <strong>MERN Developer</strong> and <strong>Problem Solver</strong> from <
   <a href="https://www.linkedin.com/in/ayush-raut-79bb4830b/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.codechef.com/users/saurabm6341" target="_blank">
+  <a href="https://www.codechef.com/users/ayush_7558" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/saurabhm116" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/alchemist_karthik" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
-  <a href="https://discord.gg/saurabhm6341_84759" target="_blank">
+  <a href="https://discord.gg/Ayush_7558" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
   </a>
 </p>
@@ -82,51 +79,4 @@ I'm a <strong>MERN Developer</strong> and <strong>Problem Solver</strong> from <
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
----
 
-### 📊 My GitHub Stats & Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saurabhm6341&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhm6341&layout=compact&theme=vision-friendly-dark" alt="Top Languages" width="49%" />
-  <br /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhm6341&theme=dark&hide_border=true" alt="GitHub Streak" width="65%" />
-  <br /><br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saurabhm6341&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saurabhm6341&theme=dracula&column=7&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
-</div>
-
----
-
-### ✨ Open Source Contributions
-
-<div align="center">
-  <details open>
-    <summary><strong>GirlScript Summer of Code '24 Contributor</strong></summary>
-    <br>
-    <img src="https://gssoc-dynamic-badges.vercel.app/api/saurabhm6341?year=2024Extd" alt="GSSOC '24 Badge"/>
-  </details>
-</div>
-
----
-
-### 🐍 Watch my contributions slither!
-
-<div align="center">
-  <img src="https://github.com/saurabhm6341/saurabhm6341/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=saurabhm6341&label=Profile%20Visitors&color=0e75b6&style=flat-square" alt="Profile Views" />
-  <br /><br />
-  <p>✨ Crafted with passion by <strong>Saurabh Mishra</strong> ✨</p>
-</div>
