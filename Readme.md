@@ -34,12 +34,6 @@ Full Stack Developer passionate about building scalable systems that handle high
   <a href="https://www.linkedin.com/in/ayush-raut-79bb4830b/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.codechef.com/users/ayush_7558" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=eqDiO9L02aEu&format=png&color=000000" alt="CodeChef" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/alchemist_karthik" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
   <a href="https://discord.gg/Ayush_7558" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
   </a>
